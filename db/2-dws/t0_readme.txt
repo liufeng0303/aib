@@ -1,0 +1,9 @@
+-- 数据仓库主题域：
+-- 1. IP：相关方，involved party
+-- 2. PD：产品，product
+-- 3. CH：渠道，channel
+-- 4. AG：协议，agreetment
+-- 5. AC：账户，account
+-- 6. EV：事件，events
+-- 7. FI：财务，financial
+-- 8. PB：公共参数，public parameter
