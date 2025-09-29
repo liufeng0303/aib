@@ -28,9 +28,9 @@ mkdir -p $HOME/prj/db
 mkdir -p $HOME/prj/job
 
 # 创建数据库快捷访问命令
-echo "psql db_ods" > $HOME/bin/dbods
-echo "psql db_dws" > $HOME/bin/dbdws
-echo "psql db_dms" > $HOME/bin/dbdms
+#echo "psql db_ods" > $HOME/bin/dbods
+#echo "psql db_dws" > $HOME/bin/dbdws
+#echo "psql db_dms" > $HOME/bin/dbdms
 chmod +x $HOME/bin/db*
 
 
